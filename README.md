@@ -5,7 +5,7 @@ Study repository for QAs and Automators
 
 
 
-## Objetivos
+## Objetivo
 
 Incentivar e ajudar iniciantes ou profissionais da área com projetos semelhantes a sprints reais, com rotações e curvas de aprendizado maiores.
 
