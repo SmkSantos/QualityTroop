@@ -1,0 +1,11 @@
+
+{
+  "name": "BUGBANK",
+  "version": "1.0.0",
+  "description": "Testes com Cypress",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^13.7.0"
+  }
+}
